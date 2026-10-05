@@ -1,7 +1,7 @@
 # 全感官智慧防災與早警開源架構草案
 > Universal Tri-Sensory Early-Warning Architecture for Disaster Management
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://share.google/GTKszdHgzrhy4JeZB)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23155344.svg)](https://share.google/GTKszdHgzrhy4JeZB)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)
 
 ## 📌 核心破局理念 (Core Concept)
